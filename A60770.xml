@@ -1,0 +1,419 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some considerations concerning the high-court of Chancery and the ordinance made for the regulation and limitation of that court.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60770</idno>
+            <idno type="STC">Wing S4482A</idno>
+            <idno type="STC">ESTC R221575</idno>
+            <idno type="EEBO-CITATION">99832872</idno>
+            <idno type="PROQUEST">99832872</idno>
+            <idno type="VID">37347</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60770)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37347)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2061:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some considerations concerning the high-court of Chancery and the ordinance made for the regulation and limitation of that court.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Court of Chancery --  Early works to 1800.</term>
+               <term>Political corruption --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37347:1"/>
+            <p>SOME CONSIDERATIONS CONCERNING The High-Court OF CHANCERY, AND THE
+ORDINANCE MADE For the Regulation and Limitation OF THAT COURT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37347:2"/>
+            <pb n="1" facs="tcp:37347:2" rendition="simple:additions"/>
+            <head>SOME CONSIDERATIONS CONCERNING THE High Court of Chancery,
+<hi>&amp;c.</hi>
+            </head>
+            <p>THe Author of this Diſcourſe, is a man utterly a<g ref="char:EOLhyphen"/>gainſt the
+licentious publiſhing of Pamphlets, as being very ſenſible of the danger
+enſuing by it, and profeſſeth a diſſability of compoſing any thing
+worth owning; But having been a ſuitor and a ſufferer in the high Court of
+Chancery for very many years, even above the common age of man, and having
+found by expe<g ref="char:EOLhyphen"/>rience the former iniquity in the courſe of Practice in that
+Court, and the great benefit and advantage of that moſt excellent Ordinance,
+made by his Highneſſe, and his moſt Honourable Councel, for the
+regulation and limitation of that Court, and being informed of ſome ſtrong
+endea<g ref="char:EOLhyphen"/>vours uſed to repeal and null that Ordinance, doth crave leave for the
+publication of theſe his Obſervations, that ſo the people of this Nation,
+who have, or ſhall have occaſi<g ref="char:EOLhyphen"/>on of ſuit in that Court, may be informed
+of the benefit they have, or may receive by the Ordinance: In which he a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>meth at nothing but the publique good
+and welfare of the Nation.</p>
+            <p>Amongſt the many things that time and corruption had made the
+object of Reformation in this Nation, nothing had more need of a Regulation and
+Reforming, then the high Court of Chancery, which was formerly, and
+eſpecially of later times, ſo chargeable to Sutors in the proſecution,
+and defence of their Cauſes, and ſo corrupt and uncertain in the practiſe
+thereof; that in ſtead of a Sanctuary to the op<g ref="char:EOLhyphen"/>preſſed, it was become a
+moſt intollerable burthen to the<pb n="2" facs="tcp:37347:3"/>Nation, and
+(notwithſtanding all addreſſes to the long Parliament) ſo continued,
+untill the Parliament which be<g ref="char:EOLhyphen"/>gan in the year 1653. (which was compoſed of
+perſons, though perhaps not very learned Stateſmen, yet doubtleſſe men
+of very good and honeſt intentions, and very ſenſible of the burthens of
+the Nation.) By whom it was voted to be taken away. But that Parliament
+diſſolving, it pleaſed his Highneſſe to continue that Court, it being
+indeed of very excellent uſe for the Nation, and without which it can<g ref="char:EOLhyphen"/>not
+ſubſiſt, as the Common Law now ſtands, and both it and the Common Law
+being challenged by the people, as their indubitate birthright.</p>
+            <p>Yet notwithſtanding his Highneſſe was pleaſed to appoint
+divers of the Long robe to conſider of a way for the regu<g ref="char:EOLhyphen"/>lation and
+reformation of that Court, but they (for what reaſon I know not) did not
+effect that good work, ſo much longed for, and needed by the people of this
+Land.</p>
+            <p>Whereupon his Highneſſe by advice of his moſt Honou<g ref="char:EOLhyphen"/>rable
+Councel (notwithſtanding the other great and im<g ref="char:EOLhyphen"/>portant buſineſſes for
+the Government and ſafety of the Nation lay on them) did make an Ordinance
+for the Regu<g ref="char:EOLhyphen"/>lation and limitation of that Court. A better nor more ac<g ref="char:EOLhyphen"/>curate
+and excellent, this Land and Nation never ſaw, which after much ſtrugling,
+almoſt a year after the making there<g ref="char:EOLhyphen"/>of, was put in execution; whereat, as no
+good man could take exceptions, ſo none but thoſe concerned in point of a
+corrupt intereſt, could or did ſpeak againſt it: and it may be well
+obſerved, that ſince the ſame was put in execution, no complaints have
+been heard againſt it from the people, for whoſe good and eaſe chiefly
+the ſame was made.</p>
+            <p>Yet nevertheleſſe, ſince the beginni<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g of this preſent Par<g ref="char:EOLhyphen"/>liament, ſome unneceſſary,
+burthenſom Officers, which either had part of their former unconſcionable
+gain taken from them, or elſe their Offices ſet aſide, as
+unneceſſary, have been indefatigable in their endeavours, to get that
+moſt excellent Ordinance repealed.</p>
+            <p>And a Committee of Parliament being app<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inted for the view of the Ordinances made by his
+Highneſſe in the int<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>vall
+<pb n="3" facs="tcp:37347:3"/>of Parliaments, that Ordinance was moſt eſpecially
+ſtruck at, through the clamours of thoſe late unneceſſary Officers of
+that Court, who aimed not at the good of their Country, but their own private
+unconſcionable gain.</p>
+            <p>Nevertheleſs it pleaſed the Parliament to referre the mat<g ref="char:EOLhyphen"/>ter
+to another Committee to amend that Regulation ſetled by the Ordinance (if
+they ſaw cauſe) and to ſend for par<g ref="char:EOLhyphen"/>ties Papers, <hi>&amp;c.</hi> which
+Committee accordingly meeting the Attornies by command, and the late ſix
+Clerks atten<g ref="char:EOLhyphen"/>ded them; where the Councel for the ſix Clerks was heard in a
+moſt tedious and impertinent diſcourſe, and the Attor<g ref="char:EOLhyphen"/>neys receiving then
+a command from that Committee, to prepare their reaſons in writing, and to
+ſet forth wherein the Ordinance was good or bad for the people, and a very
+ſhort time given them to that purpoſe: They (as I have heard) accordingly
+prepared their Reaſons, and attended to have preſented them to the
+Committee.</p>
+            <p>But the Committee not afterwards meeting, the Attor<g ref="char:EOLhyphen"/>nies Reaſons
+could not be preſented to them; and the Or<g ref="char:EOLhyphen"/>dinance being ſince by Act of
+Parliament only to continue during the ſitting of this Parliament, it is much
+feared that it is the drift of thoſe perſons who are left out as
+unneceſſa<g ref="char:EOLhyphen"/>ry Officers in that Court, to improve their intereſt, and uſe
+all endeavours to hinder any further conſideration of the Ordinance by the
+Parliament, ſo that thereby the Or<g ref="char:EOLhyphen"/>dinance may fall to the ground, and the
+old way of Practice in that Court be ſet up again, to the great prejudice of
+the Commonwealth.</p>
+            <p>It therefore much concerneth all honeſt well minded people of
+this Nation, that they make their humble ad<g ref="char:EOLhyphen"/>dreſſes to the Parliament
+minding them, that before the end thereof, they tak<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Ordinance into conſideration;
+and that what ſhall appear to be good therein may be confirmed, and what
+ſhall be found therein to be ſhort for the intended welfare of the Nation,
+may be ſupplied, and what appeareth to them to be any way diſcommodious to
+the people (if any ſuch thing there be) may be amen<g ref="char:EOLhyphen"/>ded; that ſo, ſo good
+a conſtitution may not fall to the<pb n="4" facs="tcp:37347:4"/>ground unregarded, which
+hath with ſo much delibera<g ref="char:EOLhyphen"/>tion and reſolution, been appointed for the good
+and eaſe of the people.</p>
+            <p>And to the end the people may be the better informed of the
+advantage they have and ſhall receive by that Ordi<g ref="char:EOLhyphen"/>nance, it were to be
+wiſhed that thoſe Reaſons that the Attornies or Clerks of the Chancery,
+had provided to be preſented to the Committee of Parliament, were made
+publique. But as there is juſt cauſe to fear that in them the Arrow was not
+drawn to the head (in their compoſing, there being a great oppoſition, as I
+have been informed, even amongſt themſelves) ſo without doubt they are
+now ſuppreſſed through the influence and awe the before men<g ref="char:EOLhyphen"/>tioned
+unneceſſary Officers have over the abject and pri<g ref="char:EOLhyphen"/>vate ſpirits of the
+preſent Attornies.</p>
+            <p>The Ordinance in the firſt place provides a convenient number of
+Attornies, who are to ſolicite and manage the Clients Cauſe for 3<hi rend="sup">s</hi> 4<hi rend="sup">d</hi> a
+Term, which Fee was formerly received by the ſix Clerks, for doing nothing at
+all for the benefit of the Client, who was forced either to imploy a Solicitor
+to manage his buſineſſe, to his great loſſe, or elſe to manage it
+himſelf, whereby his Cauſe often times miſcarried, through either his own
+or his Solicitors ig<g ref="char:EOLhyphen"/>norance.</p>
+            <p>For the other matters formerly done by the ſix Clerks, it is by
+Ordinance provided to be done by three chief Clerks, who have Fees amounting to
+500<hi rend="sup">lb</hi> a year a piece, which is a competent allowance for their labour, they
+being to file the Pleadings and Records, to have an inſpection upon the
+Attornies, to make Certificates of matters re<g ref="char:EOLhyphen"/>ferred to them by the Court,
+touching the regularity of proceedings, to ſet down Cauſes for hearing, and
+tax coſt: all which is better done by them, then ever it was done by the
+ſix Clerks; ſaving that the Chief Clerks, who were three of the late ſix
+Clerks, are ſomewhat ſullen, and do not in ſome things purſue the
+Ordinance according to their duty.</p>
+            <p>Now this, and the abatement of the Fees, are the things
+<pb n="5" facs="tcp:37347:4"/>that are ſtruck at by the late ſix Clerks, and other
+uſeleſſe Officers, whoſe pretence is, that their places, and the old
+Fees are their Freehold, and therefore ought not to be taken from them; that
+they purchaſed their places, and that they are of great antiquity.</p>
+            <p>As to their Freehold, I wonder whoſe Freehold their places had
+been, if the little Parliament had paſſed an Act for taking away the Court,
+as the former Parliament did for taking away the Star-Chamber, and high
+Commiſſion Court, and this Parliament the Court of Wards, in which divers
+as uſefull Officers as they, without reparation, loſt their places, as much
+their Freehold, as the ſix Clerks, and alſo purchaſed at as dear rates.
+But the ſix Clerks may ſee their own unjuſt practice juſtly retaliated
+on them, that uſed at their pleaſures, without cauſe, to turn out the
+Clerks bred up there, into the wide world to ſtarve, if they had nothing
+elſe to live upon.</p>
+            <p>And for their Antiquity, It is true, there was one At<g ref="char:EOLhyphen"/>torney, and
+but one at the firſt inſtitution of the Court, then as the buſineſſe
+increaſed, two were added, and then three more, in which number they by
+bribery a long time ſtood a grand cheat to the people, and a crying
+oppreſſion over the Clerks, who really did the buſineſſe of the
+Court. And ſince ſix Clerks cannot poſſibly perform the Office of
+Attornies, and perform the buſineſſe of the Client, it is hoped that it
+is no more injuſtice to increaſe the number of Attornies now, then it was
+in times paſt.</p>
+            <p>And I hope the ſix Clerks will be ſo ingenious, as to
+confeſſe, that beſides the impoſſibility for them to ſolicite the
+Clients Cauſes, not one nor all of them together, are able to do any thing
+belonging to an Attorney or Clerk to do, <hi>viz.</hi> to draw all ſpecial
+Writs, Commiſſions, Decrees, Diſmiſſions, and to make and write all
+other Writs, and copy Records. This being true, why ſhould they be paid for
+what they neither do, or know how to do, or mono<g ref="char:EOLhyphen"/>polize the place of an
+Attorney, which they cannot execute.</p>
+            <p>Thus I hope it is apparent that their removal is no injuſtice,
+<pb n="6" facs="tcp:37347:5"/>and that the increaſe of the number of Attorneys is a
+benefit to the Commonwealth; and there is no doubt, but if the Ordinance, as to
+the Officers, Clerks and Attornies of the Court, were put more ſtrictly and
+duly in execution, it would be of admirable benefit to all Sutors, and thoſe
+that are ſued in that Court. For, the tediouſneſſe of ſuits, is by
+the Ordinance very well provided againſt, as alſo divers Writs, as
+Subpena's to make a better anſwer, and to rejoyn are taken away: as
+likewiſe, whereas before, when wit<g ref="char:EOLhyphen"/>neſſes were examined in Court, or by
+Commiſſion <hi>ex parte,</hi> it was ordinarily two or three Terms before
+publication could paſſe; now it is provided in the Ordinance to paſſe
+in a week.</p>
+            <p>Likewiſe the making of all Writs open, cannot but be a great
+ſatisfaction to the people, they being thereby ena<g ref="char:EOLhyphen"/>bled to ſee whether the
+Writ have any miſtake in it or not; whereas while they were cloſe, the
+Client was often put to a deal of fruitleſſe charge, eſpecially in the
+Commiſſions, to examine Witneſſes, as I my ſelf have found by
+experi<g ref="char:EOLhyphen"/>ence: And likewiſe it is left by the Ordinance at the Clients liberty
+to execute a Commiſſion in any place, which with<g ref="char:EOLhyphen"/>out doubt is, and may be
+of good conſequence, for the amicable ending of ſuits, eſpecially if the
+Commiſſioners be men of judgement and integrity.</p>
+            <p>Alſo the frequent renewing of Commiſſions, tending only to
+delay, is well provided againſt by the Ordinance, and the Defendants having a
+duplicate, is of advantage to him, eſpecially in caſes where his
+witneſſes are ancient and ſickly.</p>
+            <p>Likewiſe the granting of Injunctions meerly upon the courſe of
+the Court, <hi>viz.</hi> upon the Defendants taking a Commiſſion to
+anſwer, ſitting in contempt, or making an inſufficient anſwer, was
+heretofore a great grievance to the Nation, but very well provided by the
+Ordinance, to be granted only upon ſound and ſatisfactory grounds.</p>
+            <p>And alſo whereas heretofore a Defendant could hardly put in any
+Anſwer, but the Plaintiff would put in excepti<g ref="char:EOLhyphen"/>ons to it, which were referred
+to a Maſter, who uſually<pb n="7" facs="tcp:37347:5"/>favoured the Plaintiff, and ſo
+the Client was put to a dou<g ref="char:EOLhyphen"/>ble charge: Now by the Ordinance it is provided,
+that only the Maſter of the Rolls ſhall hear them; and the moſt
+ho<g ref="char:EOLhyphen"/>nourable and judicious Gentleman, the preſent Maſter of the Rolls, hath
+ſo impartially heard thoſe matters, that it is believed the putters in of
+frivolous exceptions, have little encouragement thereto for the future, which
+is alſo a great eaſe to the people.</p>
+            <p>Likewiſe the making of orders upon whiſpering petitions is
+provided againſt, and orders to be made only upon motion in Court, and
+therein alſo the right Honourable the Lords Commiſſioners of the great
+Seal, are much to be honoured for their order of notice upon motions.</p>
+            <p>And the proviſions in the Ordinance concerning Mortgages are
+very juſt and impartiall, and the Mortgager hath thereby a convenient time
+for redemption of his Land, and the other a ſure way for recovery of his
+juſt debt, which formerly he received by minute parcels, whereas his Mortgage
+money was lent in groſſe, and the Mortgager often enforced to an accompt
+after twenty years poſſeſſion, to his great and in<g ref="char:EOLhyphen"/>tollerable
+damage.</p>
+            <p>Alſo the proviſion for References to be determined by three of
+the ſix Maſters of the Chancery in ordinary toge<g ref="char:EOLhyphen"/>ther, is moſt excellent;
+the benefit to the people by it, is very apparent, and I my ſelf cannot but
+recompt it as bene<g ref="char:EOLhyphen"/>ficial in my particular caſes, with gratitude for the
+Juſtice by them done; and I ſhall not much inſiſt on this particular,
+becauſe the grievance formerly was crying, and univerſally known and felt,
+and the parties that did the wrong are deceaſed, and therefore I wiſh their
+doings may be buried with them, and I have ſo much charity, as to hope they
+did according to their Judgements; and it ſhall be my prayer that the
+Ordinance may be punctually obſerved, and neither Maſters nor their
+Regiſter, for any reſpects whatſoever, recede from their directions in
+and by the Ordinance, and then it muſt be a new generation that will complain
+againſt them, I have good reaſon to hope this will not, if they have done,
+and ſhall perſevere to do according to the Ordinance.</p>
+            <p>
+               <pb n="8" facs="tcp:37347:6"/>It is alſo provided by the Ordinance, that the
+Regiſters places ſhall not be executed by Deputies, which I hope no man
+will ſpeak againſt, for what reaſon is there that ano<g ref="char:EOLhyphen"/>ther perſon
+ſhould have a tribute out of the labour of men who ſpend a great part of
+their age in attaining to ability in their profeſſion, and then take a
+great deal of pains to do the Clients buſineſſe; Why ſhall the poor
+Client pay for the Sack and Satin of another, by whom he receives no benefit,
+and the allowance yielded to the labourer there, by the unneceſſary
+ignorant Officer ſo mean, that if the Client had not yielded a ſupply,
+there was not a ſufficient recompence for the care and labour taken by
+thoſe that were Deputies formerly, but now ſtand on their own legs; and
+ſure I am that if the Ordinance, as concerning the Regi<g ref="char:EOLhyphen"/>ſters be duly and
+conſcionably obſerved, none will finde fault, but thoſe perſons who
+without art or conſcience would thruſt themſelves into places they are
+not able to execute.</p>
+            <p>The Ordinance alſo provides well that the chief Exami<g ref="char:EOLhyphen"/>ners do
+examine all the witneſſes themſelves, and not by Deputies (as it ſeems
+they do) the Ordinance notwith<g ref="char:EOLhyphen"/>ſtanding. And if they are not able ſo to do,
+either through their own incapacity, or the multiplicity of buſineſs, if
+the preſent Examiners be removed, or others of ability and ho<g ref="char:EOLhyphen"/>neſty be
+added to them, I hope it will not be a grievance worthy of any complaint.</p>
+            <p>The great cry againſt the Ordinance, under colour where<g ref="char:EOLhyphen"/>of the
+caſhiered Officers have thruſt in this head of their Serpentine complaints,
+is, that the Court muſt not relieve againſt new Bonds, and that Legacies
+ſhall be ſued for at Law, I conceive that at the making of the Ordinance a
+proviſion was intended in thoſe caſes for a relief to be had at the
+Common Law, but if upon ſecond thoughts the Chancery ſhall be thought the
+fitteſt Court to give relief therein, I wiſh the Suitors ſpeedy and
+juſt relief there.</p>
+            <p>Likewiſe the Fees are leſſened to half what they were
+before, or leſſe, which I hope will be confeſſed to be an eaſe to the
+people.</p>
+            <p>I ſhall not grudge at the Fees given to Councell, and only
+<pb n="9" facs="tcp:37347:6"/>pray that thoſe Gentlemen may have pity and compaſſion
+on the poor Suitors to the Court, and that they preſſe not an evil cauſe
+too farre.</p>
+            <p>I could have wiſhed that ſome abler pen might have ſhewed
+the uſefulneſſe of this Ordinance to the people, being my ſelf, I
+confeſſe, inſufficient to do it, but by this imper<g ref="char:EOLhyphen"/>fect diſcovery, the
+perfection of that excellent conſtitution may in part appear, and the drift
+of this endeavour being for the information of the people, and for their good
+and advantage, I hope the imperfections thereof will be par<g ref="char:EOLhyphen"/>doned, and that the
+adverſaries to the peoples welfare will not prevail againſt this Ordinance,
+which was by the Su<g ref="char:EOLhyphen"/>pream Magiſtrate of this Commonwealth, and his Councel,
+with ſo great wiſdom and exactneſſe provided for their good.</p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>A Poſtſcript to the Attornies of the CHANCERY.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>YOu are the perſons that are intruſted by the people, who have
+occaſion of ſuit in Chancery, and the people do willingly pay you the Fees
+appointed by the Ordinance as your due, you have many times made complaints of
+the oppreſſion and injury done you by your late Maſters, as that it was
+the only badge of villanage left in the Nation; you are now at liberty, repine
+not at your deliverers, and ſeek not to return again into bondage: The
+Ordinance gives you a propriety, loſe it not by your ſilence: A little of a
+mans own, is better then much retained with an evil con<g ref="char:EOLhyphen"/>ſcience. If the
+Ordinance fall by which you have your title, you have no right to any thing
+there, your Places,<pb n="10" facs="tcp:37347:7"/>your Fees are not then to be reckoned.
+Joyn then your helping hand, you know better then I, and are better pro<g ref="char:EOLhyphen"/>vided
+with reaſons; In gratitude to his Highneſſe make them publique, and be
+aſſured that if once your <hi>quondam</hi> Maſters prevail to be Lords
+over you, your lives will be the moſt uncomfortable, and your ſelves the
+abſoluteſt ſlaves in the world. I hope ſome of you are wiſe, let a
+word therefore ſuffice.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37347:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
